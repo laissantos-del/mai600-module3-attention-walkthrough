@@ -4,7 +4,7 @@
 **Course:** MAI 600 – Natural Language Processing· 
 **Module 3 – Attention & the Transformer Architecture**
 
-A portfolio project that traces a short **finance operations** paragraph through every stage of a Transformer and shows — by hand *and* with a real pretrained model — how self-attention resolves the relationships in the text.
+A project that traces a short **finance operations** paragraph through every stage of a Transformer and shows — manual *and* with a real pretrained model — how self-attention resolves the relationships in the text.
 
 ---
 
@@ -14,7 +14,7 @@ This project explains how a Transformer model uses **self-attention** to process
 
 The notebook runs on two levels:
 
-- **By hand** — a small NumPy example computes one attention step from scratch, so the softmax(QKᵀ/√d)·V math is fully visible.
+- **Manual (By Hand)** — a small NumPy example computes one attention step from scratch, so the softmax(QKᵀ/√d)·V math is fully visible.
 - **Real model** — `bert-base-uncased` is loaded with `output_attentions=True` to extract and visualize the model's *actual* attention weights on the sentence.
 
 ## 2. Dataset / text description
