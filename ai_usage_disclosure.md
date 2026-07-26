@@ -5,7 +5,7 @@
 - **Course:** MAI 600 – Natural Language Processing
 - **Module:** Module 3 – Attention & the Transformer Architecture
 - **Assignment:** Attention & Architecture Walkthrough
-- **Date:** July 16th, 2026
+- **Date:** July 26th, 2026
 
 ## AI Tools Used
 - [x] Claude
