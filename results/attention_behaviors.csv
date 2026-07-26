@@ -1,0 +1,5 @@
+attention_behavior,phrase_1,phrase_2,why_it_matters
+Pronoun resolution,it,variance report,"'it' must bind to the report, not the analyst."
+Entity tracking,they (finance team),finance team,Two different “they”s must be kept apart (manager vs. finance team).
+Cause / effect,unplanned vendor contracts,increased costs,The contracts are the reason for the overspend.
+Contrast,but noted,timing difference,The contrast reframes the overspend as partly a timing effect.

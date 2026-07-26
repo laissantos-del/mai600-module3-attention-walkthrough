@@ -1,0 +1,9 @@
+token_or_phrase,why_it_matters
+variance report,The main object under review; the anchor most pronouns point back to.
+it (“because it showed…”),"Pronoun that must resolve to the variance report, not the analyst."
+they (manager),First “they” refers to the department manager who approved contracts.
+they (finance team),Second “they” refers to the finance team who confirmed the overspend.
+exceeded the approved budget,The core finding that makes the whole note matter.
+unplanned vendor contracts,The cause of the overspend (cause/effect relationship).
+general ledger / accruals / cost center,Domain terms that may split into sub-word tokens.
+timing difference rather than a permanent increase,A contrast that flips the interpretation of the overspend.
